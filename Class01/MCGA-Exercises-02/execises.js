@@ -42,17 +42,17 @@ let Hector = {
 let Diego = {
   profecion: "Deposito",
   edad: 31,
-  estudios: "Secundario incompleto"
+  estudios: "secundario completo"
 };
 let Noelia = {
   profecion: "Administracion",
   edad: 42,
-  estudios: "Universitario incompleto"
+  estudios: "secundario completo"
 };
 let Rafael = {
   profecion: "Duenio",
   edad: 54,
-  estudios: "Universitario completo"
+  estudios: "secundario completo"
 };
 
 let grillaEmpleados = [
@@ -133,8 +133,8 @@ filterVariables = (miArray, param) => {
 4.-Conseguir la cantidad de empleados con secundario completo que tenga cada empresa. */
 
 filtroEmpleados = (unArray) => {
-  let cont = 0;
-  let mssg = [];
+    let mssg = [];
+    let cont = 0;
   for (let x = 0; x < unArray.length; x++) {
     for (let i = 0; i < unArray[x].empleados.length; i++) {
       if (unArray[x].empleados[i].estudios == "secundario completo") {
