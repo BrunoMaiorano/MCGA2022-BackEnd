@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "Franco", "profession": "mozo", "age": 40, "studies": "Secundario Imcompleto"},
+    {"id": 2, "name": "Luciano", "profession": "Cocinero", "age": 28, "studies": "Secundario Completo"},
+    {"id": 3, "name": "Tomas", "profession": "mozo", "age": 40, "studies": "Universitario Incompleto"},
+    {"id": 4, "name": "Fernando", "profession": "Contador", "age": 32, "studies": "Universitario Completo"},
+    {"id": 5, "name": "Rocio", "profession": "Gerenta", "age": 53, "studies": "Secundario Incompleto"},
+    {"id": 6, "name": "Lucia", "profession": "Vendedora", "age": 47, "studies": "Secundario Completo"},
+    {"id": 7, "name": "Hector", "profession": "Repositor", "age": 29, "studies": "Secundario Completo"},
+    {"id": 8, "name": "Diego", "profession": "Deposito", "age": 31, "studies": "Secundario Imcompleto"},
+    {"id": 9, "name": "Noelia", "profession": "Administracion", "age": 42, "studies": "Secundario Completo"},
+    {"id": 10, "name": "Rafael", "profession": "Duenio", "age": 54, "studies": "Secundario Completo"}
+]

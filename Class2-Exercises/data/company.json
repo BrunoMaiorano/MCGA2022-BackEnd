@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "BarLido", "cEmployees": 5, "rubro": "Culinario", "employees_id": [1, 2, 3, 4 ,5]},
+
+
+    {"id": 2, "name": "HogarObrero", "cEmployees": 5, "rubro": "Ferreteria", "employees_id": [6, 7, 8, 9 ,10]}
+]
+  
