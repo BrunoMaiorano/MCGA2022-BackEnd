@@ -1,0 +1,26 @@
+{
+  "name": "mcga2022-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoMaiorano/MCGA2022-BackEnd.git"
+  },
+  "author": "Bruno maiorano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoMaiorano/MCGA2022-BackEnd/issues"
+  },
+  "homepage": "https://github.com/BrunoMaiorano/MCGA2022-BackEnd#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.0",
+    "nodemon": "^2.0.19"
+  }
+}
